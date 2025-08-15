@@ -20,6 +20,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RiShiKaRoRa22/pandas/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

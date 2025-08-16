@@ -41,6 +41,7 @@
 | ------- |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |

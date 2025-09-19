@@ -41,6 +41,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
+| [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -91,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

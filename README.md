@@ -61,12 +61,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RiShiKaRoRa22/pandas/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

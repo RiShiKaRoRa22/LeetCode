@@ -54,6 +54,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +208,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0784-insert-into-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RiShiKaRoRa22/pandas/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->

@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -214,6 +217,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/RiShiKaRoRa22/pandas/tree/master/0617-merge-two-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/RiShiKaRoRa22/pandas/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree

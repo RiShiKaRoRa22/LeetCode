@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
@@ -50,6 +51,7 @@
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -82,6 +84,7 @@
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RiShiKaRoRa22/pandas/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RiShiKaRoRa22/pandas/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
@@ -131,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -146,6 +151,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |

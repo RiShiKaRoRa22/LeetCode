@@ -34,6 +34,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
@@ -158,6 +160,7 @@
 | [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
@@ -343,4 +347,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

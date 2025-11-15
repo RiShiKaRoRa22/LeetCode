@@ -94,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
@@ -120,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -152,6 +154,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |

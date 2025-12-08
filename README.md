@@ -7,6 +7,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/RiShiKaRoRa22/pandas/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
@@ -62,6 +63,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/RiShiKaRoRa22/pandas/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RiShiKaRoRa22/pandas/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/RiShiKaRoRa22/pandas/tree/master/0051-n-queens) |

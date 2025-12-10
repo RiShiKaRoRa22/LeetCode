@@ -98,6 +98,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RiShiKaRoRa22/pandas/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2104-sum-of-subarray-ranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/2104-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RiShiKaRoRa22/pandas/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiShiKaRoRa22/pandas/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -211,6 +212,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/RiShiKaRoRa22/pandas/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -304,6 +306,7 @@
 | [0503-next-greater-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RiShiKaRoRa22/pandas/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/2104-sum-of-subarray-ranges) |
 ## Memoization
 |  |
 | ------- |

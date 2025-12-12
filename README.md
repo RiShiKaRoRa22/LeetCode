@@ -74,6 +74,7 @@
 | [0078-subsets](https://github.com/RiShiKaRoRa22/pandas/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiShiKaRoRa22/pandas/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0136-single-number) |
@@ -125,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RiShiKaRoRa22/pandas/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiShiKaRoRa22/pandas/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/RiShiKaRoRa22/pandas/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
@@ -291,6 +294,7 @@
 | [0048-rotate-image](https://github.com/RiShiKaRoRa22/pandas/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/2428-equal-row-and-column-pairs) |
@@ -306,6 +310,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiShiKaRoRa22/pandas/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0503-next-greater-element-ii) |

@@ -79,6 +79,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RiShiKaRoRa22/pandas/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RiShiKaRoRa22/pandas/tree/master/0130-surrounded-regions) |
@@ -139,6 +140,7 @@
 | [0064-minimum-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RiShiKaRoRa22/pandas/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/RiShiKaRoRa22/pandas/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiShiKaRoRa22/pandas/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |

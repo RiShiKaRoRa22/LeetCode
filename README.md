@@ -24,6 +24,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RiShiKaRoRa22/pandas/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/RiShiKaRoRa22/pandas/tree/master/0870-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/RiShiKaRoRa22/pandas/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
@@ -110,6 +111,7 @@
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
@@ -207,6 +209,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiShiKaRoRa22/pandas/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -306,6 +309,7 @@
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RiShiKaRoRa22/pandas/tree/master/0992-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RiShiKaRoRa22/pandas/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Design

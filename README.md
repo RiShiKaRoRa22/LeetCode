@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/RiShiKaRoRa22/pandas/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RiShiKaRoRa22/pandas/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RiShiKaRoRa22/pandas/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +189,7 @@
 | [0014-longest-common-prefix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RiShiKaRoRa22/pandas/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/RiShiKaRoRa22/pandas/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
@@ -205,6 +207,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RiShiKaRoRa22/pandas/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RiShiKaRoRa22/pandas/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/RiShiKaRoRa22/pandas/tree/master/0567-permutation-in-string) |

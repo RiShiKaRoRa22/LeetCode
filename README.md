@@ -116,6 +116,7 @@
 | [0994-rotting-oranges](https://github.com/RiShiKaRoRa22/pandas/tree/master/0994-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RiShiKaRoRa22/pandas/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/RiShiKaRoRa22/pandas/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RiShiKaRoRa22/pandas/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -282,6 +283,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/RiShiKaRoRa22/pandas/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/RiShiKaRoRa22/pandas/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/RiShiKaRoRa22/pandas/tree/master/1023-time-based-key-value-store) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RiShiKaRoRa22/pandas/tree/master/2392-successful-pairs-of-spells-and-potions) |

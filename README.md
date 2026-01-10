@@ -76,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/RiShiKaRoRa22/pandas/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RiShiKaRoRa22/pandas/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RiShiKaRoRa22/pandas/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RiShiKaRoRa22/pandas/tree/master/0073-set-matrix-zeroes) |
@@ -309,6 +310,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RiShiKaRoRa22/pandas/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/RiShiKaRoRa22/pandas/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |

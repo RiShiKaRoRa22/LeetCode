@@ -102,6 +102,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiShiKaRoRa22/pandas/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RiShiKaRoRa22/pandas/tree/master/0496-next-greater-element-i) |
@@ -164,6 +165,7 @@
 | [0198-house-robber](https://github.com/RiShiKaRoRa22/pandas/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/RiShiKaRoRa22/pandas/tree/master/0931-minimum-falling-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -273,6 +275,7 @@
 | [0055-jump-game](https://github.com/RiShiKaRoRa22/pandas/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RiShiKaRoRa22/pandas/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/RiShiKaRoRa22/pandas/tree/master/0860-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/1448-maximum-69-number) |
@@ -316,6 +319,7 @@
 | [0169-majority-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiShiKaRoRa22/pandas/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiShiKaRoRa22/pandas/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/RiShiKaRoRa22/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiShiKaRoRa22/pandas/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiShiKaRoRa22/pandas/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/RiShiKaRoRa22/pandas/tree/master/1966-frequency-of-the-most-frequent-element) |
